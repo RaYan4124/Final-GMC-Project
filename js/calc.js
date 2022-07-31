@@ -35,3 +35,11 @@ const calculer = (valeur) => {
 window.addEventListener('error', (e) => {
     scrn.textContent = "ERROR:"+ e.message
 })
+
+// let hov = document.querySelector(".hov")
+
+// window.onscroll = () => {
+//     let pos = window.scrollY - 558
+//     hov.style.left = `${pos}px`
+//     console.log(pos)
+// }

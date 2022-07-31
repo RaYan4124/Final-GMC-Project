@@ -12,7 +12,7 @@ main {
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
-    height: 190vh;
+    height: 185vh;
 }
 
 .welc {
@@ -48,10 +48,8 @@ main {
     color: whitesmoke;
     position: relative;
     top: 38%;
-    margin-left: 20%;
+    margin-left: 230px;
 }
-
-
 
 .screen {
     background-color: burlywood;
@@ -96,17 +94,5 @@ main {
     transition: .5s;
 }
 
-.social {
-    display: flex;
-    gap: 20px;
-    position: relative;
-    top: 20%;
-    margin-left: 48%; 
-}
 
-.git {
-    background-color: whitesmoke;
-    border-radius: 30px;
-    height: 47px;
-    width: auto;
-}
+
