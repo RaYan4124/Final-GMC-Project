@@ -4,7 +4,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    
 }
 
 main {
@@ -22,7 +21,6 @@ main {
     position: relative;
     top: 8%;
     color: whitesmoke;
-
 }
 
 .calculator {
@@ -63,7 +61,6 @@ main {
     margin-bottom: 15px;
     padding-right: 10px;
     font-size: 2rem;
-   
 }
 
 .buttons{
